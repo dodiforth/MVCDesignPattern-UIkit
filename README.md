@@ -42,3 +42,7 @@ About how things are working, just so that next time when Iâ€™m writing code Iâ€
     ![04](https://github.com/dodiforth/MVCDesignPattern-UIkit/assets/50798761/9f6cda86-5243-4586-a55f-2a6f12962e47)
 
     This is the general description of the flow throughout the entire MVC design pattern
+
+  ## Reference
+  - All images are from https://www.youtube.com/@EmmanuelOkwara
+  - https://swimjiy.github.io/2019-05-28-web-mvc-mvp-mvvm
